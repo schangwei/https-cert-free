@@ -17,12 +17,12 @@
 ![](https://github.com/schangwei/https-cert-free/blob/master/02.png)
 
 * 获取需要设置的TXT记录的值
-* 在这里是 QnHolcvkLTEMl5-IBwwa3x5qawe_NroDtuCPFQkYQeo（上方图片内容有误）
+* 在这里是 1Hm1nO367PZ0BPybo_yKEVLudK2q9d4LnyGqrP6_Ex0
 
 ## 设置TXT值
 访问设置URL:
 
-http://txt-verify.antiy.net.cn/set-txt?key=[_password_]&txt=QnHolcvkLTEMl5-IBwwa3x5qawe_NroDtuCPFQkYQeo
+http://txt-verify.antiy.net.cn/set-txt?key=[password]&txt=1Hm1nO367PZ0BPybo_yKEVLudK2q9d4LnyGqrP6_Ex0
 
 设置成功会返回 set ok
 
@@ -41,7 +41,7 @@ http://txt-verify.antiy.net.cn/set-txt?key=[_password_]&txt=QnHolcvkLTEMl5-IBwwa
 
 `TTL: 5`
 
-`TXT: QnHolcvkLTEMl5-IBwwa3x5qawe_NroDtuCPFQkYQeo`
+`TXT: 1Hm1nO367PZ0BPybo_yKEVLudK2q9d4LnyGqrP6_Ex0`
 
 
 ## 下载证书
