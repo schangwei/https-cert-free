@@ -10,7 +10,8 @@
 
 
 * 填写需要申请的域名，如有多个请以空格分开，这里是假设为 test.antiycloud.com 申请证书
-![图1](https://github.com/schangwei/https-cert-free/blob/master/01.png)
+
+
 
 * 选择手动认证DNS服务
 ![](https://github.com/schangwei/https-cert-free/blob/master/02.png)
