@@ -3,6 +3,7 @@
 
 ### 准备工作（配置NS记录）
 * 一个域名 ， 假设是要为 test.antiycloud.com 申请证书
+* 多个域名，以空格分隔，例如: *.test.antiycloud.com test.antiycloud.com
 * 需要配置 _acme-challenge.test.antiycloud.com 的NS记录为 **txt-verify.antiy.net.cn** 
 
 ### 准备好以上的工作 ， 就可以正式开始证书的申请工作了
